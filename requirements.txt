@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+streamlit # Add this line
+imbalanced-learn # Make sure this is also there if you used SMOTE
