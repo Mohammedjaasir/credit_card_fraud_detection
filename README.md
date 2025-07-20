@@ -88,8 +88,7 @@ credit_card_fraud_detection/
 * **GitHub repository:** This repository contains all project code and necessary files.
 * **Project Report:** `report/project_report.pdf` (1-2 pages in PDF format).
 
-## Video Demo 
-<img width="960" height="504" alt="Screenshot 2025-07-18 233253" src="https://github.com/user-attachments/assets/92bc6c3c-ca7e-4fbb-b828-bb5227778abb" />
+## Sample images
 
 <img width="960" height="540" alt="Screenshot 2025-07-20 131144" src="https://github.com/user-attachments/assets/04653444-7863-4555-8149-2c8da899fc4e" />
 
